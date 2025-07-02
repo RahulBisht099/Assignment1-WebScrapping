@@ -26,13 +26,17 @@ This project scrapes upcoming contest information from [CodeChef](https://www.co
 
 ---
 
-## 📦 Dependencies
+## 📦 How to Run
 
-Install them using:
+# 1. Clone the repository
+git clone https://github.com/your-username/codechef-contest-scraper.git
+cd codechef-contest-scraper
 
-```bash
+# 3. Install dependencies
 pip install selenium webdriver-manager beautifulsoup4 psycopg2-binary
-```
+
+# 4. Run the scraper
+python scraper.py
 
 ---
 
