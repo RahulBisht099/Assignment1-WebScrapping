@@ -32,10 +32,10 @@ This project scrapes upcoming contest information from [CodeChef](https://www.co
 git clone https://github.com/your-username/codechef-contest-scraper.git
 cd codechef-contest-scraper
 
-# 3. Install dependencies
+# 2. Install dependencies
 pip install selenium webdriver-manager beautifulsoup4 psycopg2-binary
 
-# 4. Run the scraper
+# 3. Run the scraper
 python scraper.py
 
 ---
