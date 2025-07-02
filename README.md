@@ -89,7 +89,7 @@ will be generated in your current directory.
 
 ```
 .
-├── scraper.ipynb / scraper.py
+├── WebScrapping.ipynb
 ├── codechef_upcoming_contests.csv
 ├── README.md
 ```
